@@ -1,55 +1,89 @@
-# Hi, I'm Shreeyansh Singh 👋
+<h1 align="center">Hey, I'm Shreeyansh Singh 👋</h1>
 
-**Data Analyst** | SQL • Python • Power BI | ETL Pipelines | A/B Testing | Business Intelligence
+<p align="center">
+  <b>Data Engineer & MLOps Developer</b> · Building production-grade AI & Data platforms<br/>
+  <i>Real-time pipelines · Self-healing systems · ML in production</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shreeyansh17&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/shreeyansh17?tab=repositories"><img src="https://img.shields.io/badge/Repos-4-blue?style=flat&logo=github" /></a>
+  <img src="https://img.shields.io/badge/Focus-Data%20Engineering%20%26%20MLOps-orange?style=flat" />
+</p>
 
 ---
 
-## About Me
+## 🚀 Featured Projects
 
-I'm a data-driven engineer who loves turning messy, large-scale datasets into clear business insights. With hands-on experience at **Hindalco Industries (Aditya Birla Group)**, I've worked on real ERP operational data — validating records, optimizing workflows, and improving data accuracy at scale.
+### 🌆 [UrbanFlow Intelligence Platform](https://github.com/shreeyansh17/UrbanFlow-Intelligence-Platform)
+> End-to-End Data Engineering + AI Platform
 
-I build end-to-end data solutions: from raw data extraction and transformation to interactive dashboards that decision-makers actually use.
+An intelligent urban analytics platform combining modern data engineering with AI for real-time city insights.
+
+**Stack:** `Kafka` `Apache Spark` `Snowflake` `dbt` `XGBoost` `Claude AI` `Python`
 
 ---
 
-## Tech Stack
+### 🔧 [IntelliPipe](https://github.com/shreeyansh17/IntelliPipe)
+> Self-Healing Real-Time Data Quality Platform
 
-**Languages & Querying**
-`SQL (Advanced)` `Python` `Pandas` `NumPy`
+Production-ready platform with automated anomaly detection, schema drift monitoring, and RAG-powered diagnostics — pipelines that fix themselves.
 
-**Visualization & BI**
-`Power BI` `DAX` `Excel (Advanced)`
+**Stack:** `Kafka` `PySpark` `LangChain` `MLflow` `Airflow` `FastAPI` `Python`
+
+---
+
+### 🤖 [ModelMesh](https://github.com/shreeyansh17/modelmesh)
+> Production-Grade MLOps Platform
+
+Full ML serving platform with real-time drift detection, automated retraining pipelines, and model monitoring at scale.
+
+**Stack:** `MLflow` `FastAPI` `Kafka` `Evidently AI` `Docker` `Kubernetes` `Python`
+
+---
+
+### 🛒 [Retail Data Pipeline](https://github.com/shreeyansh17/Retail-Data-Pipeline)
+> End-to-End Retail Analytics Pipeline
+
+SQL + Python powered data pipeline with Power BI dashboards for retail business intelligence.
+
+**Stack:** `SQL` `Python` `Power BI`
+
+---
+
+## 🛠️ Tech Stack
 
 **Data Engineering**
-`ETL/ELT Pipelines` `MySQL` `Incremental Loading` `Workflow Automation`
+`Apache Kafka` `Apache Spark` `PySpark` `Airflow` `dbt` `Snowflake`
 
-**Analytics & Stats**
-`A/B Testing` `Hypothesis Testing` `Confidence Intervals` `Regression Basics`
+**MLOps & AI**
+`MLflow` `Evidently AI` `LangChain` `XGBoost` `RAG` `Claude AI`
 
-**Tools**
-`Git` `GitHub` `Jupyter Notebook` `VS Code`
+**Backend & Infra**
+`FastAPI` `Docker` `Kubernetes` `Python` `SQL`
 
----
-
-## Featured Projects
-
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [Retail Sales Data Pipeline](https://github.com/shreeyansh17/Retail-Data-Pipeline) | End-to-end ETL pipeline + Power BI dashboard for 10K+ records | Python, SQL, Power BI |
-| [A/B Testing — Conversion Optimization](https://github.com/shreeyansh17/AB-Testing-Project) | Statistical A/B experiment with t-test, p-values & business recommendation | Python, Stats |
-| [KPI Alert System](https://github.com/shreeyansh17/KPI-Alert-System) | Automated anomaly detection — flags >30% sales drops in real time | Python, Logging |
+**Visualization**
+`Power BI` `Matplotlib` `Seaborn`
 
 ---
 
-## Certifications
+## 📊 GitHub Stats
 
-- Google Data Analytics Professional Certificate — Coursera
-- SQL (Advanced) — HackerRank
-- Python (Advanced) — HackerRank
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreeyansh17&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeyansh17&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
 ---
 
-## Connect With Me
+## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shreeyansh--singh-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shreeyansh-singh-1789b5286)
-[![Email](https://img.shields.io/badge/Email-shree170703@gmail.com-red?style=flat&logo=gmail)](mailto:shree170703@gmail.com)
+<p>
+  <a href="https://github.com/shreeyansh17"><img src="https://img.shields.io/badge/GitHub-shreeyansh17-181717?style=flat&logo=github" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-India-green?style=flat&logo=googlemaps" />
+</p>
+
+---
+
+<p align="center"><i>"Building systems that don't just process data — they understand it."</i></p>
