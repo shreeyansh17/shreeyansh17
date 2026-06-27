@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Shreeyansh Singh 👋</h1>
 
 <p align="center">
-  <b>Data Engineer & MLOps Developer</b> · Building production-grade AI & Data platforms<br/>
+  <b>Data Engineer & AI/MLOps Developer</b> · Building production-grade AI & Data platforms<br/>
   <i>Real-time pipelines · Self-healing systems · ML in production</i>
 </p>
 
